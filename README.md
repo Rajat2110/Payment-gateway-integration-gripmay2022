@@ -3,5 +3,5 @@ This is a simple website with integrated payment gateway. The homepage contains 
 Once the payment is done, an email will be sent to the user that the payment has been received along with the donation amount.
 
 ###Technologies used:
--HTML
--CSS
+ - HTML
+ - CSS
