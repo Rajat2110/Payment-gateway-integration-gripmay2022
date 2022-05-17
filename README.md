@@ -5,3 +5,6 @@ Once the payment is done, an email will be sent to the user that the payment has
 ### Technologies used:
  - HTML
  - CSS
+
+#### Integrations used:
+ - Razorpay
